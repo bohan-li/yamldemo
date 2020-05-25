@@ -1,0 +1,8 @@
+Command: CameraSnapshot
+Time: 1585215144500
+Parameters:
+  WindowSize:
+    - 1280
+    - 1024
+  ExposureTime: 10000
+  
